@@ -1,0 +1,2 @@
+# Ignore site-packages (environment files)
+myen/Lib/site-packages/
